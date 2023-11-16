@@ -1,8 +1,13 @@
+<img align="right" src="https://github.com/adpawel/adpawel/blob/main/IT.png" width="400"/>
+
 <h2> HEY! NICE TO SEE YOU 👋</h2>
+
 
 
 <h3> 👨🏻‍💻 About me </h3>
 I’m Pawel, student of Computer Science and Intelligent Systems at AGH UST in Cracow.
+
+
 
 ### Interests:
 * ♟️ [Chess](https://www.chess.com/member/pablo_810)
