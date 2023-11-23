@@ -14,7 +14,7 @@ I’m Pawel, student of Computer Science and Intelligent Systems at AGH UST in C
 * 🏃 [Running](https://connect.garmin.com/modern/profile/e0ecab38-0a26-465a-a717-55b3043cdc63)
 * ⚽ Football
 
-  [My GitHub page](https://adpawel.github.io/)
+  
 
 ## Reach me:
 <p align="center">
