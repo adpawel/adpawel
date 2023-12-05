@@ -5,7 +5,7 @@
 
 
 <h3> 👨🏻‍💻 About me </h3>
-I’m Pawel, student of Computer Science and Intelligent Systems at AGH UST in Cracow.
+I’m Pawel, student of Computer Science and Artificial Intelligence at AGH UST in Cracow.
 
 
 
@@ -17,7 +17,7 @@ I’m Pawel, student of Computer Science and Intelligent Systems at AGH UST in C
 ### [My website](https://adpawel.github.io/) made with github pages.
 
 ### Article from Papers with code:
-* [Link]() to the repository
+* [Link](https://github.com/adpawel/DeepFakeDetection) to the repository
 * [Link](https://paperswithcode.com/paper/unmasking-deepfakes-with-simple-features) to the article about unmasking deep fakes.
   
 ## Reach me:
