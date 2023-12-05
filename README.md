@@ -15,8 +15,11 @@ I’m Pawel, student of Computer Science and Intelligent Systems at AGH UST in C
 * ⚽ Football
 
 ### [My website](https://adpawel.github.io/) made with github pages.
-  
 
+### Article from Papers with code:
+* [Link]() to the repository
+* [Link](https://paperswithcode.com/paper/unmasking-deepfakes-with-simple-features) to the article about unmasking deep fakes.
+  
 ## Reach me:
 <p align="center">
 &nbsp; <a href="https://www.facebook.com/profile.php?id=100022730723736&sk=about" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png" width="50" /></a>  
