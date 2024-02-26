@@ -13,12 +13,7 @@ I’m Pawel, student of Computer Science and Artificial Intelligence at AGH UST 
 * ♟️ [Chess](https://www.chess.com/member/pablo_810)
 * 🏃 [Running](https://connect.garmin.com/modern/profile/e0ecab38-0a26-465a-a717-55b3043cdc63)
 * ⚽ Football
-
-### [My website](https://adpawel.github.io/) made with github pages.
-
-### Article from Papers with code:
-* [Link](https://github.com/adpawel/DeepFakeDetection) to the repository
-* [Link](https://paperswithcode.com/paper/unmasking-deepfakes-with-simple-features) to the article about unmasking deep fakes.
+* Creating games
   
 ## Reach me:
 <p align="center">
