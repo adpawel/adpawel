@@ -1,4 +1,3 @@
-<img align="right" src="https://github.com/adpawel/adpawel/blob/main/IT.png" width="400"/>
 
 <h2> HEY! NICE TO SEE YOU 👋</h2>
 
