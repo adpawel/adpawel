@@ -1,5 +1,5 @@
 
-<h2> HEY! NICE TO SEE YOU 👋</h2>
+<h2> HEY! NICE TO SEE YOU</h2>
 
 
 
