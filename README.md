@@ -14,6 +14,7 @@ I'm a student focused on the intersection of **Computer Science** and **Intellig
  
 * 💼 **Software Engineer Intern** at <a href="https://www.medius.com"><img align="bottom" height="20" alt="Medius" src="https://github.com/user-attachments/assets/03fa9cc2-ecf1-4cfc-8add-fa39f204bf1a" /></a>
 * 🌱 Currently learning: **Backend System Design** & **OpenAI API** integration
+
 ### 🛠 Core Tech Stack
  
 <p align="left">
@@ -24,24 +25,18 @@ I'm a student focused on the intersection of **Computer Science** and **Intellig
  
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=adpawel&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff">
-    <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=adpawel&show_icons=true&hide_border=true&bg_color=ffffff&title_color=0077B5&text_color=24292f&icon_color=0077B5" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adpawel/adpawel/main/profile-summary-card-output/github_dark/3-stats.svg">
+    <img height="200" alt="GitHub stats" src="https://raw.githubusercontent.com/adpawel/adpawel/main/profile-summary-card-output/github/3-stats.svg" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=adpawel&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9">
-    <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adpawel&layout=compact&hide_border=true&bg_color=ffffff&title_color=0077B5&text_color=24292f" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adpawel/adpawel/main/profile-summary-card-output/github_dark/2-most-commit-language.svg">
+    <img height="200" alt="Most used languages" src="https://raw.githubusercontent.com/adpawel/adpawel/main/profile-summary-card-output/github/2-most-commit-language.svg" />
   </picture>
-</p>
-<details>
-<summary><b>📈 Contribution graph (click to expand)</b></summary>
-<br>
-<p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=adpawel&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&hide_border=true">
-    <img alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=adpawel&bg_color=ffffff&color=24292f&line=0077B5&point=24292f&hide_border=true" />
-  </picture>
+     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adpawel/adpawel/main/profile-summary-card-output/github_dark/0-profile-details.svg">
+     <img alt="Profile details" src="https://raw.githubusercontent.com/adpawel/adpawel/main/profile-summary-card-output/github/0-profile-details.svg" />
+   </picture>
 </p>
-</details>
 
 ### 🧩 Beyond Coding
  
